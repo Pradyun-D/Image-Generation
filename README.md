@@ -35,7 +35,7 @@ Your code for each subtask should be present in a file called ``subtask<number>.
 - Compare results from all three methods (VAE, GAN, Diffusion) based on PSNR, MSE and SSIM scores.
 - Determine which method performs best for underwater image enhancement
 
-  ## Results
+## Results
   ### Subtask 1: Variational Autoencoders (VAEs)
   <figure>
       <img width="1810" height="454" alt="Img1" src="https://github.com/user-attachments/assets/f2c2f3c9-561a-448e-a431-ca77cd33abf6" /> 

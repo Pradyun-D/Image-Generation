@@ -37,24 +37,8 @@ Your code for each subtask should be present in a file called ``subtask<number>.
 
 ## Results
   ### Subtask 1: Variational Autoencoders (VAEs)
-  <figure>
-      <img width="1810" height="454" alt="Img1" src="https://github.com/user-attachments/assets/f2c2f3c9-561a-448e-a431-ca77cd33abf6" /> 
-      <figcaption>Img1</figcaption>
-  </figure>
-<br><br>
-  <figure>
-      <img width="1810" height="454" alt="Img1" src="https://github.com/user-attachments/assets/53557190-de71-4a88-914d-c5db16e26338" /> 
-      <figcaption>Img2</figcaption>      
-  </figure>
-<br><br>
-  <figure>
-    <img width="1810" height="454" alt="Img3" src="https://github.com/user-attachments/assets/da087604-a21b-4fbb-b825-1e39d9b221d6" /> 
-      <figcaption>Img3</figcaption>
-  </figure>
-
-  #### Metrics
-  - MSE: 0.0146
-  - PSNR: 67.38 dB
-  - SSIM: 0.9983
+  - MSE: 0.0378
+  - PSNR: 62.68 dB
+  - SSIM: 0.9957
 
 

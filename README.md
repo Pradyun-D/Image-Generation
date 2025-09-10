@@ -41,4 +41,7 @@ Your code for each subtask should be present in a file called ``subtask<number>.
   - PSNR: 62.68 dB
   - SSIM: 0.9957
 
-
+  ### Subtask 2: Generative Adverserial Networks (GAN)
+  - MSE: 0.0134
+  - PSNR: 67.75 dB
+  - SSIM: 0.9984

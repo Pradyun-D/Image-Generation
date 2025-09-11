@@ -37,11 +37,11 @@ Your code for each subtask should be present in a file called ``subtask<number>.
 
 ## Results
   ### Subtask 1: Variational Autoencoders (VAEs)
-  - MSE: 0.0378
-  - PSNR: 62.68 dB
-  - SSIM: 0.9957
+  - MSE: 0.0379
+  - PSNR: 14.52 dB
+  - SSIM: 0.2932
 
   ### Subtask 2: Generative Adverserial Networks (GAN)
   - MSE: 0.0134
-  - PSNR: 67.75 dB
-  - SSIM: 0.9984
+  - PSNR: 19.62 dB
+  - SSIM: 0.7283

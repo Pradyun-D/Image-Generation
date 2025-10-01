@@ -1,47 +1,26 @@
-# Intelligence SIG Pre-Recruitments
+# Underwater Image Generation & Enhancement
 
-## Underwater Image Enhancement Project
+## Project Overview
+This project explores image generation and enhancement techniques such as VAEs, GANs, and related models, applied to underwater imagery. The objective is to evaluate how different generative models can enhance and reconstruct underwater images, which are often degraded due to lighting and scattering effects.
 
-In this task, you will learn and implement various techniques related to image generation. You will be using these techniques to enhance the quality of underwater images ([Link to dataset](https://kaggle.com/datasets/b498391bea2bc8b0c6301bf2cd8820ef3bca6896e07ce2a50b54a62859db050e)). 
+## Methods
 
-Your code for each subtask should be present in a file called ``subtask<number>.ipynb``. The VAEs task, for example will be present in a notebook called ``subtask1.ipynb``. All your notebooks should be in the ``Tasks`` folder. Write clean code and make sure to add proper comments.
-
-## Subtasks
-
-### Subtask 1: Variational Autoencoders (VAEs)
-- Implement and train a VAE for underwater image enhancement.
-- Generate enhanced images using the trained VAE.
-- Resources: 
-    - [Video](https://youtu.be/SSXDkfiPs7c?si=CaU8izd-iWaicmt5)
-    - [Blog](https://medium.com/@aniketp2009/image-denoising-using-variational-autoencoders-e2cda0c336d2)
+### Variational Autoencoders (VAEs)
+- Implemented and trained a VAE for underwater image enhancement.
+- Generated enhanced images using the trained VAE.
     
-### Subtask 2: GANs for Underwater Image Enhancement
-- Implement a GAN using the generator and discriminator described in the paper linked below.
-- Train the GAN on underwater images.
-- Generate enhanced images using the trained GAN.
-- Resources: 
-    - [Paper](https://paperswithcode.com/method/pix2pix)
-    - [Video](https://youtu.be/8L11aMN5KY8?si=J9nOBQAUmId-LmpT)
-    - [Blog](https://www.geeksforgeeks.org/generative-adversarial-network-gan/)
-
-### Subtask 3: Diffusion Models
-- Implement a diffusion model for image enhancement
-- Train the diffusion model on underwater images
-- Generate enhanced images using the trained diffusion model
-- Resources:
-    - [Video](https://youtu.be/687zEGODmHA?si=xJjjw4oDL558NDRZ)
-
-## Conclusion
-- Compare results from all three methods (VAE, GAN, Diffusion) based on PSNR, MSE and SSIM scores.
-- Determine which method performs best for underwater image enhancement
+### GANs for Underwater Image Enhancement
+- Implemented a GAN using the generator and discriminator.
+- Trained the GAN on underwater images.
+- Generated enhanced images using the trained GAN.
 
 ## Results
-  ### Subtask 1: Variational Autoencoders (VAEs)
+  ### Variational Autoencoders (VAEs)
   - MSE: 0.0379
   - PSNR: 14.52 dB
   - SSIM: 0.2932
 
-  ### Subtask 2: Generative Adverserial Networks (GAN)
+  ### Generative Adverserial Networks (GAN)
   - MSE: 0.0134
   - PSNR: 19.62 dB
   - SSIM: 0.7283
